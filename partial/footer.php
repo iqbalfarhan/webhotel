@@ -1,1 +1,1 @@
-ini footer
+ini bagian halaman footer footer
