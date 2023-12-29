@@ -1,3 +1,3 @@
 <?php
 
-echo "ini halaman home";
+echo "ini halaman home ini diubah";
